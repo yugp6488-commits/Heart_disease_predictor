@@ -37,3 +37,5 @@ This application takes 5 key clinical features and processes them through a pre-
 .
 ├── index.html        # Main application (Logic, UI, and Styles)
 └── README.md         # Project documentation
+
+##The Code and the logic has been written in the python with sklearn library but than it was converted into the HTML CSS JAVASCRIPT
